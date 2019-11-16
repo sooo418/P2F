@@ -1,0 +1,21 @@
+@charset "UTF-8";
+table{
+   margin:0 auto;
+   border:2px solid black;
+   border-collapse:collapse;
+}
+
+th{
+   background-color:black;
+   color:yellow;
+   width:20%;
+   text-align: center;
+}
+
+.tablea tr:nth-child(2n+1){
+   background-color:gray;
+}
+.tablea tr:hover{
+   background-color:orange;
+   font-weight:bold;
+}
