@@ -1,20 +1,20 @@
-## P2F 소개
+P2F 소개
 
 ### DB 구조
 
-![1573895605616](C:\Users\ehdwn\AppData\Roaming\Typora\typora-user-images\1573895605616.png)
+![image](https://user-images.githubusercontent.com/50854729/68991481-b1dd0e80-08a2-11ea-9548-89d55ec150aa.png)
 
 
 
 ### 시스템 구조
 
-![1573895728722](C:\Users\ehdwn\AppData\Roaming\Typora\typora-user-images\1573895728722.png)
+![image](https://user-images.githubusercontent.com/50854729/68991484-b86b8600-08a2-11ea-9431-7d99755e5e97.png)
 
 
 
 ### 화면 설게(Flow Chart)
 
-![1573895754121](C:\Users\ehdwn\AppData\Roaming\Typora\typora-user-images\1573895754121.png)
+![image](https://user-images.githubusercontent.com/50854729/68991486-bc97a380-08a2-11ea-8f96-5d6d6da95180.png)
 
 
 
